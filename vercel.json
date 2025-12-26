@@ -1,12 +1,5 @@
 {
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
-  "framework": "express",
-  "public": false,
-  "git": {
-    "deploymentEnabled": true
-  },
-  "env": {
-    "NODE_ENV": "production"
-  }
+  "public": false
 }
